@@ -1,4 +1,6 @@
 fastapi
-uvicorn[standard]
 tweepy
 python-dotenv
+google-generativeai
+Pillow
+uvicorn
